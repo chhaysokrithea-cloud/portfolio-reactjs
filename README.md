@@ -2,7 +2,7 @@
 
 A personal portfolio website built with **React.js** and **JavaScript**, showcasing my skills, projects, and experience as a frontend developer.
 
-🔗 **Live Demo:** [http://localhost:5173/]
+
 
 ## Preview
 
