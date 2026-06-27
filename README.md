@@ -33,12 +33,12 @@ A personal portfolio website built with **React.js** and **JavaScript**, showcas
 src/
 - assets/          # Images, fonts, icons
 - components/
-- Header.jsx       # Hero section, nav, about, skills
-- DarkMode.jsx      # Theme toggle logic
-- Typing.jsx        # Animated role typing effect
-- - script.jsx        # Starfield background
+- -> Header.jsx       # Hero section, nav, about, skills
+- -> DarkMode.jsx      # Theme toggle logic
+- -> Typing.jsx        # Animated role typing effect
+- -> script.jsx        # Starfield background
 - App.jsx
-- main.jsx
+- -> main.jsx
 
 
 ## Getting Started
