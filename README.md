@@ -31,14 +31,14 @@ A personal portfolio website built with **React.js** and **JavaScript**, showcas
 
 ## 📂 Project Structure
 src/
-├── assets/          # Images, fonts, icons
-├── components/
-│   ├── Header.jsx       # Hero section, nav, about, skills
-│   ├── DarkMode.jsx      # Theme toggle logic
-│   ├── Typing.jsx        # Animated role typing effect
-│   └── script.jsx        # Starfield background
-├── App.jsx
-└─main.jsx
+- assets/          # Images, fonts, icons
+- components/
+- Header.jsx       # Hero section, nav, about, skills
+- DarkMode.jsx      # Theme toggle logic
+- Typing.jsx        # Animated role typing effect
+- - script.jsx        # Starfield background
+- App.jsx
+- main.jsx
 
 
 ## Getting Started
