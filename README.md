@@ -1,10 +1,10 @@
-# 🚀 Rithea's Portfolio
+# Rithea's Portfolio
 
 A personal portfolio website built with **React.js** and **JavaScript**, showcasing my skills, projects, and experience as a frontend developer.
 
 🔗 **Live Demo:** [http://localhost:5173/]
 
-## 📸 Preview
+## Preview
 
 <img width="944" height="437" alt="image" src="https://github.com/user-attachments/assets/b60e0332-f541-477b-b592-8f076f8ed302" />
 
